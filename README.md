@@ -20,7 +20,6 @@ Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've al
 </a>
 
 ## Contact me
-[![DM me](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](mailto:oussama.siwane@outlook.com) 
-
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Oussiw)](mailto:oussama.siwane@outlook.com) 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oussiw)](https://twitter.com/oussiw)
