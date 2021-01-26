@@ -11,8 +11,28 @@
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
 
-## Tools & Technologies
+## Web Technologies
 [![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)](https://github.com/oussiw?tab=repositories)
+[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/oussiw?tab=repositories)
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://github.com/oussiw?tab=repositories)
+[![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)](https://github.com/oussiw?tab=repositories)
+[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](https://github.com/oussiw?tab=repositories)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://github.com/oussiw?tab=repositories)
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://github.com/oussiw?tab=repositories)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/oussiw?tab=repositories)
+
+
+## DevTools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
