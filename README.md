@@ -44,8 +44,8 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 [![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=black)](https://github.com/oussiw?tab=repositories)
 
 ## My activity on github
-<p align="center><a href="https://github.com/oussiw?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=oussiw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a></p>
+<p align="center>
+    <img src="https://github-readme-stats.vercel.app/api?username=oussiw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p>
 
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
