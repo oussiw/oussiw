@@ -27,7 +27,7 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
-![SublimeText](https://img.shields.io/badge/-Sublime-Text-05122A?style=flat&logo=sublime-text)
+![SublimeText](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=skyblue)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=skyblue)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
