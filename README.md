@@ -12,7 +12,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
 
 ## Tools & Technologies
-[![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)](https://github.com/oussiw?tab=repositories)
+[![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
