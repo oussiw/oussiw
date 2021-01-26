@@ -24,15 +24,17 @@
 
 
 ## DevTools
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
+![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
