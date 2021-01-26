@@ -6,11 +6,11 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/oussiw?tab=repositories&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://github.com/oussiw?tab=repositories&language=javascript)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/oussiw)
-[![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)](https://github.com/oussiw?tab=repositories&language=typescript)
-[![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)](https://github.com/oussiw)
-[![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
-[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
+[![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)](https://github.com/oussiw?tab=repositories&language=typescript)
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/oussiw)
+[![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)](https://github.com/oussiw)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/oussiw)
+[![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/oussiw?tab=repositories)
 
 ## Web Technologies
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
@@ -23,7 +23,6 @@
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://github.com/oussiw?tab=repositories)
-<!--[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](https://github.com/oussiw?tab=repositories)-->
 
 ## DevTools
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains&logoColor=skyblue)
@@ -32,6 +31,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=skyblue)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=skyblue)
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
