@@ -11,7 +11,7 @@ Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've al
 [![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)](https://github.com/oussiw?tab=repositories&language=typescript)
 [![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)](https://github.com/oussiw)
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)&nbsp](https://github.com/oussiw)
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
