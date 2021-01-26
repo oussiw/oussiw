@@ -1,5 +1,7 @@
 ## :notebook: About me
-```Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
+```
+Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthusiast.
+```
 ## Programming Language
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
 [![C](https://img.shields.io/badge/-C-4574E0?style=flat&logo=C&logoColor=white)](https://github.com/oussiw?tab=repositories)
