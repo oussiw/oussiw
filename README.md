@@ -1,5 +1,5 @@
 ## :notebook: About me
-```Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
+```Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
 ## Programming Language
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
 [![C](https://img.shields.io/badge/-C-4574E0?style=flat&logo=C&logoColor=white)](https://github.com/oussiw?tab=repositories)
@@ -24,21 +24,22 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://github.com/oussiw?tab=repositories)
 
-## DevTools
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains&logoColor=skyblue)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![SublimeText](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=skyblue)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=skyblue)
-![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
+## Development Kits 
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![SublimeText](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=black)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=black)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=black)
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
