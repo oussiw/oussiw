@@ -18,3 +18,6 @@ Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've al
     <img height="170px" width="400px" src="https://github-readme-stats.vercel.app/api?username=oussiw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="173px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussiw&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
+
+## Contact me
+[My email](mailto:oussama.siwane@outlook.com)
