@@ -37,7 +37,7 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
-![GitLab](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
