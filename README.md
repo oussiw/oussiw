@@ -1,4 +1,4 @@
-## :sun_with_face:About me
+## :notebook: About me
 ```Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
 ## Programming Language
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=blue)](https://github.com/oussiw?tab=repositories&language=python)
@@ -17,7 +17,7 @@
     <img height="173px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussiw&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
-## Contact me
+## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Oussiw)](https://t.me/Oussiw)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oussiw)](https://twitter.com/oussiw)
