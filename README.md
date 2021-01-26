@@ -1,11 +1,11 @@
 ## :notebook: About me
 ```Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
 ## Programming Language
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=blue)](https://github.com/oussiw?tab=repositories&language=java)
-[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=Codio)](https://github.com/oussiw?tab=repositories)
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/oussiw?tab=repositories&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)](https://github.com/oussiw?tab=repositories&language=javascript)
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2b%2b&logoColor=blue)](https://github.com/oussiw)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
+[![C](https://img.shields.io/badge/-C-4574E0?style=flat&logo=C&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/oussiw?tab=repositories&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://github.com/oussiw?tab=repositories&language=javascript)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/oussiw)
 [![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)](https://github.com/oussiw?tab=repositories&language=typescript)
 [![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)](https://github.com/oussiw)
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
