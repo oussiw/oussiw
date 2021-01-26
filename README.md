@@ -12,18 +12,18 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
 [![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
 
-## Technologies
+## Web Technologies
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://github.com/oussiw?tab=repositories)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/oussiw?tab=repositories)
 [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf)](https://github.com/oussiw?tab=repositories)
 [![AngularJs](https://img.shields.io/badge/-AngularJs-E23237?style=flat&logo=angularjs&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=black)](https://github.com/oussiw?tab=repositories)
-[![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)](https://github.com/oussiw?tab=repositories)
-[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](https://github.com/oussiw?tab=repositories)
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://github.com/oussiw?tab=repositories)
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/oussiw?tab=repositories)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://github.com/oussiw?tab=repositories)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/oussiw?tab=repositories)
+<!--[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](https://github.com/oussiw?tab=repositories)-->
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://github.com/oussiw?tab=repositories)
 
 ## DevTools
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains&logoColor=skyblue)
@@ -35,7 +35,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
