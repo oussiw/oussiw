@@ -1,4 +1,4 @@
-## About me
+## :sun_with_face:About me
 ```Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
 ## Programming Language
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=blue)](https://github.com/oussiw?tab=repositories&language=python)
