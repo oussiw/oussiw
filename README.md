@@ -10,12 +10,13 @@
 [![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)](https://github.com/oussiw)
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
+[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
 
 ## Technologies
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf)](https://github.com/oussiw?tab=repositories)
-[![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
-[![AngularJs](https://img.shields.io/badge/-AngularJs-05122A?style=flat&logo=angularjs&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)](https://github.com/oussiw?tab=repositories)
+[![AngularJs](https://img.shields.io/badge/-AngularJs-E23237?style=flat&logo=angularjs&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/oussiw?tab=repositories)
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://github.com/oussiw?tab=repositories)
 [![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)](https://github.com/oussiw?tab=repositories)
@@ -23,8 +24,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://github.com/oussiw?tab=repositories)
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://github.com/oussiw?tab=repositories)
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/oussiw?tab=repositories)
-[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
-
 
 ## DevTools
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains&logoColor=skyblue)
