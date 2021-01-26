@@ -11,9 +11,11 @@
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
 
-## Web Technologies
-[![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)](https://github.com/oussiw?tab=repositories)
-[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
+## Technologies
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf)](https://github.com/oussiw?tab=repositories)
+[![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
+[![AngularJs](https://img.shields.io/badge/-AngularJs-05122A?style=flat&logo=angularjs&logoColor=skyblue)](https://github.com/oussiw?tab=repositories)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://github.com/oussiw?tab=repositories)
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://github.com/oussiw?tab=repositories)
 [![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)](https://github.com/oussiw?tab=repositories)
@@ -21,22 +23,23 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://github.com/oussiw?tab=repositories)
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://github.com/oussiw?tab=repositories)
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/oussiw?tab=repositories)
+[![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)](https://github.com/oussiw?tab=repositories)
 
 
 ## DevTools
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains)
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=JetBrains&logoColor=skyblue)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
 ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=skyblue)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=skyblue)
+![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
