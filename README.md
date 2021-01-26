@@ -1,8 +1,8 @@
 ## :notebook: About me
 ```Hi, I'm Oussama, 21 years old. I'm a machine learning and AI enthusiast. I've also worked as a fullstack developer using different web technologies.```
 ## Programming Language
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=blue)](https://github.com/oussiw?tab=repositories&language=python)
-[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=Codio)](https://github.com/oussiw?tab=repositories&language=python)
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=blue)](https://github.com/oussiw?tab=repositories&language=java)
+[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=Codio)](https://github.com/oussiw?tab=repositories)
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/oussiw?tab=repositories&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)](https://github.com/oussiw?tab=repositories&language=javascript)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2b%2b&logoColor=blue)](https://github.com/oussiw)
@@ -10,6 +10,9 @@
 [![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)](https://github.com/oussiw)
 [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)](https://github.com/oussiw)
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=blue)](https://github.com/oussiw)
+
+## Tools & Technologies
+[![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)](https://github.com/oussiw?tab=repositories)
 
 ## My activity on github
 <a href="https://github.com/oussiw?tab=repositories">
