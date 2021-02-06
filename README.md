@@ -50,7 +50,8 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
     </a>
 </p>
   
-  
+## Latest Projects
+
   
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
