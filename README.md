@@ -43,7 +43,7 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=black)](https://github.com/oussiw?tab=repositories)
 
-## My activity on github
+## Activity on github
 <p align="center">
     <a href="https://github.com/oussiw?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api?username=oussiw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -51,8 +51,10 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 </p>
   
 ## Latest Projects
-* Ecommerce App (Angular 10 - Spring boot - MySQL)
-* Prescription analyser (HTML - CSS - JS - Spring boot - Android)
+* Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
+* Tradimed: Prescription translator (HTML - CSS - JS - Spring boot - Thymeleaf - Android[Java])
+* EmiClass: Plateform for In-Campus document sharing (HTML - CSS - JS - Spring boot - MySQL Database - Thymeleaf)
+* BookIn OCP: Mobile App for meeting rooms reservation (Spring boot - MySQL Database - Android[Java])
   
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
