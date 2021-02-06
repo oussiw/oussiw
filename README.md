@@ -51,7 +51,8 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 </p>
   
 ## Latest Projects
-
+* Ecommerce App (Angular 10 - Spring boot - MySQL)
+* Prescription analyser (HTML - CSS - JS - Spring boot - Android)
   
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
