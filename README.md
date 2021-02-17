@@ -51,10 +51,10 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 </p>
   
 ## Latest Projects
-* Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
-* Tradimed: Prescription translator (HTML - CSS - JS - Spring boot - Thymeleaf - Android[Java])
-* EmiClass: Plateform for In-Campus document sharing (HTML - CSS - JS - Spring boot - MySQL Database - Thymeleaf)
-* BookIn OCP: Mobile App for meeting rooms reservation (Spring boot - MySQL Database - Android[Java])
+> Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
+> Tradimed: Prescription translator (HTML - CSS - JS - Spring boot - Thymeleaf - Android[Java])
+> EmiClass: Plateform for In-Campus document sharing (HTML - CSS - JS - Spring boot - MySQL Database - Thymeleaf)
+> BookIn OCP: Mobile App for meeting rooms reservation (Spring boot - MySQL Database - Android[Java])
   
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
