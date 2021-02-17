@@ -54,7 +54,7 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 > Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
 
 > Tradimed: Prescription translator (HTML - CSS - JS - Spring boot - Thymeleaf - Android[Java])
-> 
+
 > EmiClass: Plateform for In-Campus document sharing (HTML - CSS - JS - Spring boot - MySQL Database - Thymeleaf)
 > BookIn OCP: Mobile App for meeting rooms reservation (Spring boot - MySQL Database - Android[Java])
   
