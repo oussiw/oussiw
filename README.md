@@ -51,7 +51,7 @@ Hi, I'm Oussama, 21 years old, from Morocco. I'm a machine learning and AI enthu
 </p>
   
 ## Latest Projects
-> Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
+> *Surp: Ecommerce App (Angular 10 - Spring boot - MySQL Database)
 
 > Tradimed: Prescription translator (HTML - CSS - JS - Spring boot - Thymeleaf - Android[Java])
 
