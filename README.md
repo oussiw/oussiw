@@ -1,6 +1,6 @@
 ## :notebook: About me
 ```
-Hi, I'm Oussama, from Earth. I'm a machine learning and AI enthusiast.
+Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 ```
 ## Programming Language
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
