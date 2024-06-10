@@ -3,8 +3,8 @@
 Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 ```
 ## Programming Language
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/oussiw?tab=repositories&language=java)
 [![C](https://img.shields.io/badge/-C-4574E0?style=flat&logo=C&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://github.com/oussiw?tab=repositories&language=javascript)
