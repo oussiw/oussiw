@@ -39,9 +39,11 @@ Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/oussiw?tab=repositories)
-## [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=black)](https://github.com/oussiw?tab=repositories)
-## [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://github.com/oussiw?tab=repositories)
-## [![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=black)](https://github.com/oussiw?tab=repositories)
+<!---
+[![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=black)](https://github.com/oussiw?tab=repositories)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://github.com/oussiw?tab=repositories)
+[![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=black)](https://github.com/oussiw?tab=repositories)
+-->
 
 ## Activity on github
 <p align="center">
