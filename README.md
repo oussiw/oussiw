@@ -1,6 +1,6 @@
 ## :notebook: About me
 ```
-Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
+Hi, I'm Oussama, a computer's enthusiast.
 ```
 ## Programming Language
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2b%2b&logoColor=white)](https://github.com/oussiw?tab=repositories)
