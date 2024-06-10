@@ -12,7 +12,9 @@ Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/oussiw?tab=repositories)
-## [![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/oussiw?tab=repositories)
+<!---
+[![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/oussiw?tab=repositories)
+-->
 
 ## Web Technologies
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
@@ -51,7 +53,8 @@ Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
         <img src="https://github-readme-stats.vercel.app/api?username=oussiw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     </a>
 </p>
-  
+
+<!---
 ## Latest Projects
 > Surp: Ecommerce App (Angular 10, Spring boot, MySQL Database)
 
@@ -60,6 +63,7 @@ Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 > EmiClass: Plateform for In-Campus document sharing (HTML, CSS, JS, Spring boot, MySQL Database, Thymeleaf)
 
 > BookIn OCP: Mobile App for meeting rooms reservation (Spring boot, MySQL Database, Android[Java])
+-->
   
 ## :envelope: Contact me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-siwane/)](https://www.linkedin.com/in/oussama-siwane/)
