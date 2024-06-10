@@ -12,7 +12,7 @@ Hi, I'm Oussama. I'm a machine learning and AI enthusiast.
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)](https://github.com/oussiw?tab=repositories)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/oussiw?tab=repositories)
-[![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/oussiw?tab=repositories)
+## [![R (Statistics)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://github.com/oussiw?tab=repositories)
 
 ## Web Technologies
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/oussiw?tab=repositories)
